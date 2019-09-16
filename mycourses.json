@@ -9,6 +9,6 @@
     { "id": "13", "courseCode": "NAT160", "courseName": "Natural Science: Nutrition" },
     { "id": "14", "courseCode": "PRJ566", "courseName": "Project Planning and Management" },
     { "id": "15", "courseCode": "PSY222", "courseName": "Psychology of Happiness" },
-    { "id": "16", "courseCode": "MAP523", "courseName": "Software Portability and Optimization" },
+    { "id": "16", "courseCode": "MAP523", "courseName": "Software Portability and Optimization" }
   ]
 }
