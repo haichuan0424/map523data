@@ -1,0 +1,14 @@
+{
+  "student": "Haichuan He",
+  "version": "1.0.0",
+  "timestamp": "2019-09-16T16:00:00+0000",
+  "count": 6,
+  "data": [
+    { "id": "11", "courseCode": "MAP523", "courseName": "Mobile App Development - iOS" },
+    { "id": "12", "courseCode": "OSD600", "courseName": "Open Source Development" },
+    { "id": "13", "courseCode": "NAT160", "courseName": "Natural Science: Nutrition" },
+    { "id": "14", "courseCode": "PRJ566", "courseName": "Project Planning and Management" },
+    { "id": "15", "courseCode": "PSY222", "courseName": "Psychology of Happiness" },
+    { "id": "16", "courseCode": "MAP523", "courseName": "Software Portability and Optimization" },
+  ]
+}
