@@ -1,6 +1,7 @@
 {
   "student": "Haichuan He",
   "version": "1.0.0",
+  "timestamp": Date(),
   "count": 6,
   "data": [
     { "id": "11", "courseCode": "SYS466", "courseName": "Analysis and Design Using OO Models" },
