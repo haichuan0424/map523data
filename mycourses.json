@@ -1,8 +1,8 @@
 {
   "student": "Haichuan He",
   "version": "1.0.0",
-  "timestamp": Date(),
-  "count": 6,
+  "timestamp": "2019-09-18T22:30:00+0000",
+  "count": 11,
   "data": [
     { "id": "11", "courseCode": "SYS466", "courseName": "Analysis and Design Using OO Models" },
     { "id": "12", "courseCode": "WEB422", "courseName": "Web Programming for Apps and Services" },
